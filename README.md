@@ -2,7 +2,7 @@
 <h3 align="center">Un développeur passioné originaire d'Orléans</h3>
 <br>
 
-- 🔭 Je travaille actuellement sur mon premier projet de développement d'un [site web portfolio](https://github.com/amin-elmellouki/Site-Web-Portfolio)
+- 🔭 Je travaille actuellement sur mon premier projet de développement d'un [site web portfolio]**(https://github.com/amin-elmellouki/Site-Web-Portfolio)**
 
 - 🌱 J'apprends actuellement de nouveaux outils web tels que **PHP, JavaScript, Flutter ou encore Flask**
 
