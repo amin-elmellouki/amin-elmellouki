@@ -7,7 +7,7 @@
 - 🎓 Étudiant en **BUT Informatique (Réalisation d’applications)** à l’IUT d’Orléans.  
 - 🔭 Je travaille actuellement sur mon **site web portfolio**
 - 💡 Passionné par la création d’applications web modernes et performantes, du front-end au back-end.  
-- 🌱 J’explore en ce moment de nouveaux outils et frameworks tels que **Flutter**, **Flask**, et **TailwindCSS**.
+- 🌱 J’explore en ce moment de nouveaux outils et frameworks tels que **Django** et **TailwindCSS**.
   
 ---
 
