@@ -7,9 +7,8 @@
 - 🎓 Étudiant en **BUT Informatique (Réalisation d’applications)** à l’IUT d’Orléans.  
 - 🔭 Je travaille actuellement sur mon **site web portfolio**
 - 💡 Passionné par la création d’applications web modernes et performantes, du front-end au back-end.  
-- 🌱 J’explore en ce moment de nouveaux outils et frameworks tels que **Flutter**, **Flask**, et **TailwindCSS**.  
-- 📫 Vous pouvez me contacter à : **amin.elmellouki1@gmail.com**  
-
+- 🌱 J’explore en ce moment de nouveaux outils et frameworks tels que **Flutter**, **Flask**, et **TailwindCSS**.
+  
 ---
 
 ### 🧰 Langages et outils
