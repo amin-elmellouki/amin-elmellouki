@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/amin-el-mellouki-a924012b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:amin.el-mellouki@etu.univ-orleans.fr">
+  <a href="mailto:amin.elmellouki1@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/📍_Orléans-France-lightgrey?style=flat-square"/>
