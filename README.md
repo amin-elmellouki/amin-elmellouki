@@ -93,20 +93,18 @@
 ### 🏗️ Projets
 
 #### 🏟️ [Orléans Futsal — Solution Numérique](https://github.com/amin-elmellouki/orleans-futsal)
-> *Mission de stage · Client réel · En cours*
+> *Mission de stage · En cours*
 
-Solution numérique complète développée seul : app mobile iOS/Android, back-office d'administration et API REST partagée.
+Solution numérique complète développée en autonomie : app mobile iOS/Android, back-office d'administration et API REST partagée.
 
 `FastAPI` `React Native` `React` `PostgreSQL` `Docker` `JWT` `Cloudflare R2` `Expo Push`
 
 ---
 
 #### 🌐 [Refonte Site Web — Orléans Futsal](https://github.com/amin-elmellouki/refont-orleans-futsal)
-> *Livraison client réelle · Site en production*
+Refonte complète du site officiel du club — système de composants JS dynamiques, SEO et déploiement Apache.
 
-Refonte complète du site officiel du club — 44 fichiers, système de composants JS dynamiques, SEO et déploiement Apache.
-
-`HTML5` `CSS3` `JavaScript ES Modules` `Vite` `PHP` `Apache`
+`HTML5` `CSS3` `JavaScript ES Modules` `Vite` `PHP` `Apache` `TailwindCSS`
 
 ---
 
