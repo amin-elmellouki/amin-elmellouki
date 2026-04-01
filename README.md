@@ -16,8 +16,8 @@
 ### 🚀 À propos de moi
 
 - 🎓 Étudiant en **BUT Informatique (Réalisation d'applications)** à l'IUT d'Orléans.
-- 🏟️ En stage chez **Orléans Futsal** — je développe seul une solution numérique complète : API REST, back-office web et application mobile iOS/Android.
-- 💡 Passionné par la conception d'applications modernes et performantes, du back-end à l'app mobile.
+- 🏟️ En stage chez **Orléans Futsal**, je développe seul une solution numérique complète : API REST, back-office web et application mobile iOS/Android.
+- 💡 Passionné par la conception d'applications modernes et performantes.
 - 🌱 Je travaille actuellement avec **FastAPI**, **React Native** et **Docker** au quotidien.
 - 💼 Disponible pour des **missions freelance** — développement web, API, application mobile.
 
@@ -50,9 +50,6 @@
 <p align="left">
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="50" height="50"/>
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
