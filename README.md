@@ -115,6 +115,5 @@ Refonte complète du site officiel du club — système de composants JS dynamiq
 Application web multi-modules avec pipeline CI/CD GitHub Actions et documentation MkDocs déployée automatiquement.
 
 `Django 5` `MySQL` `Docker` `GitHub Actions` `MkDocs`
-    height="150"
   />
 </p>
